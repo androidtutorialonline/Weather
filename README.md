@@ -8,8 +8,10 @@ Select device and runthe app.
 
 #more time coroutines
 
-We can improve UI 
+We can Add Unit test cause
 
 we can implement the usecause with clean Architecture
+
+We can improve UI 
 
 Currently I implemented MVVM, DataBinding, DI with coroutines
